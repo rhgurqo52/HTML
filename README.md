@@ -6,7 +6,7 @@ Head First HTML and CSS <br>
 그 외 강사님 학습 자료<br>
 
 ------------------------------------------------------------
-🎈학습 내용<br>
+🚀학습 내용<br>
 - 서버와 클라이언트의 차이 <br>
 - HTML의 특징 <br>
 마크업 언어, 여는 태그 (Opening tag), 닫는 태그 (Closing tag), 내용 (Content)<br>
